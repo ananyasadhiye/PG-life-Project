@@ -1,11 +1,6 @@
-# PGlife
-Certainly! Below is a sample description for your PG Life project to post on GitHub.
-
----
 
 # PG Life - Find Your Perfect Paying Guest Accommodation
 
-![PG Life Banner](path/to/banner/image.jpg)
 
 Welcome to **PG Life**, a web application designed to help students and working professionals find the perfect paying guest (PG) accommodation. Our platform offers a wide range of options, from budget-friendly to premium, ensuring you find the right place that suits your needs and preferences.
 
